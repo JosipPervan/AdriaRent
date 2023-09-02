@@ -41,3 +41,4 @@ Route::middleware(['auth', 'admin'])->name('admin.')->prefix('admin')->group(fun
 });
 
 require __DIR__.'/auth.php';
+//URL::forceRootUrl('http://studenti.sum.ba/projekti/rwa/2022/gX');
