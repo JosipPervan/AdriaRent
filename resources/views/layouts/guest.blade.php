@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'AdriaRent') }}</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -30,7 +30,7 @@
             <div class="flex items-center justify-between">
                 <a class="text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500 md:text-2xl hover:text-indigo-400"
                    href="#">
-                    Mountain RA </a>
+                   AdriaRent </a>
 
                 <!-- Mobile menu button -->
                 <div @click="isOpen = !isOpen" class="flex md:hidden">
@@ -109,7 +109,7 @@
 <footer class="text-gray-600">
     <div class="container flex flex-col items-center px-5 py-8 mx-auto sm:flex-row">
         <a class="flex items-center justify-center font-medium text-gray-900 md:justify-start">
-          <span class="ml-3 text-xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">Mountain RA</span>
+          <span class="ml-3 text-xl text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-500">AdriaRent</span>
         </a>
         <span class="inline-flex justify-center mt-4 sm:ml-auto sm:mt-0 sm:justify-start">
           <a class="text-gray-500">

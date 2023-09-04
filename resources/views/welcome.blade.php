@@ -3,10 +3,10 @@
         <div class="space-y-4 sm:text-center lg:text-left container max-w-lg px-4 py-32 mx-auto text-left bg-center bg-no-repeat bg-cover md:max-w-none md:text-center"
         style="background-image: url(https://cdn.pixabay.com/photo/2015/02/13/23/57/ski-tour-635973_1280.jpg) ">
             <h1 class="text-4xl font-bold text-black xl:text-5xl">
-                <span class=" text-indigo-600"> Mountain RA</span>
+                <span class=" text-indigo-600"> AdriaRent</span>
             </h1>
             <p class="max-w-xl text-gray-300 sm:mx-auto lg:ml-0">
-                Dobrodošli na stranicu za rezerviranje zimske opreme.
+                Dobrodošli na stranicu za rezerviranje zimske opreme.<br>
                 Klikni ispod za rezervaciju!
             </p>
             <div class="items-center justify-center pt-10 space-y-3 sm:space-x-6 sm:space-y-0 sm:flex lg:justify-start">
@@ -22,69 +22,7 @@
         </div>
     </section>
 
-    <!-- Section 5 -->
-    <section class="relative text-gray-900 bg-white border-solid" id="features">
-        <div class="mx-auto border-solid lg:pl-8 max-w-7xl">
-            <div class="flex flex-col items-center text-gray-900 border-0 border-gray-200 lg:flex-row">
-                <div
-                    class="flex flex-col justify-center w-full h-full p-8 text-gray-900 border-solid lg:w-1/2 md:p-16 lg:p-0 lg:pl-10 lg:pr-20">
-                    <h2 class="m-0 text-2xl font-bold text-left text-transparent bg-clip-text bg-gradient-to-t from-blue-500 to-purple-500 sm:text-4xl md:text-3xl">
-                        Our Features</h2>
-                    <p class="mt-2 text-xl text-left border-0 border-gray-200">We offer the best features in the
-                        industry.</p>
-                    <div class="grid gap-4 mt-8 border-0 border-gray-200 sm:mt-10 sm:gap-6 lg:mt-12 lg:gap-8">
-                        <div class="flex items-start text-gray-900 border-solid ">
-                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 rounded">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                                     stroke="currentColor" class="w-6 h-6 text-white">
-                                    <path stroke-linecap="round" stroke-linejoin="round"
-                                          d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
-                                </svg>
-                            </div>
-                            <div class="flex-1 ml-6 border-0 border-gray-200">
-                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
-                                    Pomoć osoblja</h3>
-                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">No more wasting time on
-                                    manual tasks, you can leverage our automated tasks to make your life easier.</p>
-                            </div>
-                        </div>
-                        <div class="flex items-start text-gray-900 border-solid ">
-                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 border-0 border-gray-200 rounded">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                                     stroke="currentColor" class="w-6 h-6 text-white">
-                                    <path stroke-linecap="round" stroke-linejoin="round"
-                                          d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
-                                </svg>
-
-                            </div>
-                            <div class="flex-1 ml-6 border-0 border-gray-200">
-                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
-                                    Zaštitna oprema</h3>
-                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">Utilize our email
-                                    campaigns to send your users up-to-date information about your product and services.</p>
-                            </div>
-                        </div>
-                        <div class="flex items-start text-gray-900 border-solid ">
-                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 border-0 border-gray-200 rounded">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                                     stroke="currentColor" class="w-6 h-6 text-white">
-                                    <path stroke-linecap="round" stroke-linejoin="round"
-                                          d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z" />
-                                </svg>
-
-                            </div>
-                            <div class="flex-1 ml-6 border-0 border-gray-200">
-                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
-                                    Plaćanje pri preuzimanju </h3>
-                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">We offer some of the
-                                    best support available. Contact us anytime of the day and we'll help you out ASAP.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- Section 8 -->
     <section class="bg-white" id="blogs">
         <div class="w-full px-8 py-10 mx-auto lg:max-w-7xl">
@@ -94,6 +32,7 @@
             <div class="grid gap-x-8 gap-y-12 sm:gap-y-16 md:grid-cols-2 lg:grid-cols-3">
                 @foreach($categories as $category)
                     <div class="relative p-2 border border-indigo-600 rounded-md">
+                        
                         <a href="#" class="block overflow-hidden">
                             <img
                                 src="{{ Storage::url($category->image) }}"
@@ -114,6 +53,69 @@
             </div>
         </div>
     </section>
+
+
+<!-- Section 5 -->
+    <section class="relative text-gray-900 bg-white border-solid" id="features">
+        <div class="mx-auto border-solid lg:pl-8 max-w-7xl">
+            <div class="flex flex-col items-center text-gray-900 border-0 border-gray-200 lg:flex-row">
+                <div
+                    class="flex flex-col justify-center w-full h-full p-8 text-gray-900 border-solid lg:w-1/2 md:p-16 lg:p-0 lg:pl-10 lg:pr-20">
+                    <h2 class="m-0 text-2xl font-bold text-left text-transparent bg-clip-text bg-gradient-to-t from-blue-500 to-purple-500 sm:text-4xl md:text-3xl">
+                        Zašto baš mi?</h2>
+                    <p class="mt-2 text-xl text-left border-0 border-gray-200">Nudimo vam najveći broj mogućnosti uz iznajmljivanje naše opreme</p>
+                    <div class="grid gap-4 mt-8 border-0 border-gray-200 sm:mt-10 sm:gap-6 lg:mt-12 lg:gap-8">
+                        <div class="flex items-start text-gray-900 border-solid ">
+                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 rounded">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                                     stroke="currentColor" class="w-6 h-6 text-white">
+                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                          d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
+                                </svg>
+                            </div>
+                            <div class="flex-1 ml-6 border-0 border-gray-200">
+                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
+                                    Pomoć osoblja</h3>
+                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">Osoblje na raspolaganju svakim danom od 09:00 do 23:00</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start text-gray-900 border-solid ">
+                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 border-0 border-gray-200 rounded">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                                     stroke="currentColor" class="w-6 h-6 text-white">
+                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                          d="M16.5 10.5V6.75a4.5 4.5 0 10-9 0v3.75m-.75 11.25h10.5a2.25 2.25 0 002.25-2.25v-6.75a2.25 2.25 0 00-2.25-2.25H6.75a2.25 2.25 0 00-2.25 2.25v6.75a2.25 2.25 0 002.25 2.25z" />
+                                </svg>
+
+                            </div>
+                            <div class="flex-1 ml-6 border-0 border-gray-200">
+                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
+                                    Zaštitna oprema</h3>
+                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">Vaša sigurnost nam je na prvom mjestu, stoga uz svako iznajmljivanje dobivate kacigu.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start text-gray-900 border-solid ">
+                            <div class="flex items-center justify-center w-12 h-12 bg-purple-600 border-0 border-gray-200 rounded">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                                     stroke="currentColor" class="w-6 h-6 text-white">
+                                    <path stroke-linecap="round" stroke-linejoin="round"
+                                          d="M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z" />
+                                </svg>
+
+                            </div>
+                            <div class="flex-1 ml-6 border-0 border-gray-200">
+                                <h3 class="m-0 text-lg font-semibold text-black border-solid sm:text-xl md:text-2xl">
+                                    Plaćanje pri preuzimanju </h3>
+                                <p class="mt-2 text-base leading-normal text-gray-900 border-solid ">Mogućnost otkazivanja rezervacije do zadnje stotinke!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
     <section class="bg-white" id="blogs">
         <div class="w-full px-8 py-10 mx-auto lg:max-w-7xl">
             <div class="mb-4 text-center">
@@ -136,6 +138,8 @@
         </div>
         </div>
     </section>
+
+
     <section class="bg-white" id="blogs">
         <div id="contact" class="w-full px-8 py-10 mx-auto lg:max-w-7xl">
 
@@ -162,7 +166,7 @@
                                   d="M502.3 190.8c3.9-3.1 9.7-.2 9.7 4.7V400c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V195.6c0-5 5.7-7.8 9.7-4.7 22.4 17.4 52.1 39.5 154.1 113.6 21.1 15.4 56.7 47.8 92.2 47.6 35.7.3 72-32.8 92.3-47.6 102-74.1 131.6-96.3 154-113.7zM256 320c23.2.4 56.6-29.2 73.4-41.4 132.7-96.3 142.8-104.7 173.4-128.7 5.8-4.5 9.2-11.5 9.2-18.9v-19c0-26.5-21.5-48-48-48H48C21.5 64 0 85.5 0 112v19c0 7.4 3.4 14.3 9.2 18.9 30.6 23.9 40.7 32.4 173.4 128.7 16.8 12.2 50.2 41.8 73.4 41.4z">
                             </path>
                         </svg>
-                        mountainra@gmail.com
+                        AdriaRent@gmail.com
                     </p>
                     <p class="flex items-center justify-center md:justify-start mb-4">
                         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="phone"
@@ -181,6 +185,10 @@
             </div>
         </div>
     </section>
+
+
+
+    
 
 
 </x-guest-layout>
